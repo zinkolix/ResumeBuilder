@@ -1,12 +1,9 @@
 package resumeBuilder;
 
-import org.springframework.stereotype.Component;
-
 /**
  * @author Ashwin
  *
  */
-@Component
 public class ResumePojo {
 
 	private String name;
